@@ -1,0 +1,535 @@
+08/22/2020 04:58:01 Xp: INFO: *******Test_01_Login**************
+08/22/2020 04:58:01 Xp: INFO: *******verifying home page**************
+08/22/2020 04:58:15 Xp: INFO: *******verifying home page passed**************
+08/22/2020 04:58:15 Xp: INFO: *******verifying login test**************
+08/22/2020 04:58:41 Xp: ERROR: *******Login test is passes**************
+08/22/2020 05:02:20 Xp: INFO: *******Test_01_Login**************
+08/22/2020 05:02:20 Xp: INFO: *******verifying home page**************
+08/22/2020 05:02:34 Xp: INFO: *******verifying home page passed**************
+08/22/2020 05:02:34 Xp: INFO: *******verifying login test**************
+08/22/2020 05:02:56 Xp: INFO: *******Login test is passes**************
+08/22/2020 10:33:24 Xp: INFO: *******Test_01_Login**************
+08/22/2020 10:33:24 Xp: INFO: *******verifying home page**************
+08/22/2020 10:33:39 Xp: INFO: *******verifying home page passed**************
+08/22/2020 10:33:39 Xp: INFO: *******verifying login test**************
+08/22/2020 10:34:11 Xp: INFO: *******Login test is passes**************
+08/22/2020 11:47:32 Xp: INFO: *******Test_01_Login**************
+08/22/2020 11:47:32 Xp: INFO: *******verifying home page**************
+08/22/2020 11:47:42 Xp: INFO: *******verifying home page passed**************
+08/22/2020 11:47:48 Xp: INFO: *******verifying login test**************
+08/22/2020 11:48:21 Xp: INFO: *******Login test is passes**************
+08/22/2020 11:51:27 Xp: INFO: *******Test_01_Login**************
+08/22/2020 11:51:27 Xp: INFO: *******verifying home page**************
+08/22/2020 11:51:37 Xp: INFO: *******verifying home page passed**************
+08/22/2020 11:51:43 Xp: INFO: *******verifying login test**************
+08/22/2020 11:52:11 Xp: INFO: *******Login test is passes**************
+08/23/2020 12:15:32 Xp: INFO: *******Test_01_Login**************
+08/23/2020 12:15:32 Xp: INFO: *******verifying home page**************
+08/23/2020 12:15:33 Xp: INFO: *******verifying login test**************
+08/23/2020 12:17:22 Xp: INFO: *******Test_01_Login**************
+08/23/2020 12:17:22 Xp: INFO: *******verifying home page**************
+08/23/2020 12:17:41 Xp: INFO: *******verifying home page passed**************
+08/23/2020 12:17:53 Xp: INFO: *******verifying login test**************
+08/23/2020 12:18:13 Xp: INFO: *******Login test is passes**************
+08/23/2020 12:18:42 Xp: INFO: *******Test_01_Login**************
+08/23/2020 12:18:42 Xp: INFO: *******verifying home page**************
+08/23/2020 12:19:08 Xp: INFO: *******verifying home page passed**************
+08/23/2020 12:19:13 Xp: INFO: *******verifying login test**************
+08/23/2020 12:19:32 Xp: INFO: *******Login test is passes**************
+08/23/2020 12:21:21 Xp: INFO: *******Test_01_Login**************
+08/23/2020 12:21:21 Xp: INFO: *******verifying home page**************
+08/23/2020 12:21:21 Xp: INFO: *******verifying login test**************
+08/23/2020 12:22:01 Xp: INFO: *******Test_01_Login**************
+08/23/2020 12:22:01 Xp: INFO: *******verifying home page**************
+08/23/2020 12:23:01 Xp: INFO: *******Test_01_Login**************
+08/23/2020 12:23:01 Xp: INFO: *******verifying home page**************
+08/23/2020 12:26:43 Xp: INFO: *******Test_01_Login**************
+08/23/2020 12:26:43 Xp: INFO: *******verifying home page**************
+08/23/2020 12:27:33 Xp: INFO: *******Test_01_Login**************
+08/23/2020 12:27:33 Xp: INFO: *******verifying home page**************
+08/23/2020 12:34:57 Xp: INFO: *******Test_01_Login**************
+08/23/2020 12:34:57 Xp: INFO: *******verifying home page**************
+08/23/2020 12:34:58 Xp: INFO: *******verifying login test**************
+08/23/2020 12:35:27 Xp: INFO: *******verifying home page passed**************
+08/23/2020 12:38:48 Xp: INFO: *******Login test is passes**************
+08/23/2020 01:00:04 Xp: INFO: *******Test_01_Login**************
+08/23/2020 01:00:04 Xp: INFO: *******verifying home page**************
+08/23/2020 01:00:04 Xp: INFO: *******verifying login test**************
+08/23/2020 01:00:19 Xp: INFO: *******verifying home page passed**************
+08/23/2020 01:00:25 Xp: INFO: *******Login test is passes**************
+08/23/2020 01:03:42 Xp: INFO: *******Test_01_Login**************
+08/23/2020 01:03:42 Xp: INFO: *******verifying home page**************
+08/23/2020 01:03:43 Xp: INFO: *******verifying login test**************
+08/23/2020 01:03:51 Xp: INFO: *******verifying home page passed**************
+08/23/2020 01:04:06 Xp: INFO: *******Login test is passes**************
+08/23/2020 05:39:21 Xp: INFO: *******Test_01_Login**************
+08/23/2020 05:39:21 Xp: INFO: *******verifying home page**************
+08/23/2020 05:39:29 Xp: INFO: *******verifying home page passed**************
+08/23/2020 05:39:35 Xp: INFO: *******verifying login test**************
+08/23/2020 05:39:56 Xp: INFO: *******Login test is passes**************
+08/23/2020 05:40:22 Xp: INFO: *********Test_02__ddt_Login********
+08/23/2020 05:40:22 Xp: INFO: *******verifying login ddt test**************
+08/23/2020 05:40:51 Xp: INFO: Lodin DDT is passed
+08/23/2020 05:45:34 Xp: INFO: *********Test_02__ddt_Login********
+08/23/2020 05:45:34 Xp: INFO: *******verifying login ddt test**************
+08/23/2020 05:51:18 Xp: INFO: *********Test_02__ddt_Login********
+08/23/2020 05:51:18 Xp: INFO: *******verifying login ddt test**************
+08/23/2020 05:51:48 Xp: INFO: *** passed**
+08/23/2020 05:52:02 Xp: INFO: *** passed**
+08/23/2020 05:54:43 Xp: INFO: *********Test_02__ddt_Login********
+08/23/2020 05:54:43 Xp: INFO: *******verifying login ddt test**************
+08/23/2020 05:55:16 Xp: INFO: *** passed**
+08/23/2020 05:55:28 Xp: INFO: *** passed**
+08/23/2020 06:00:08 Xp: INFO: *********Test_02__ddt_Login********
+08/23/2020 06:00:08 Xp: INFO: *******verifying login ddt test**************
+08/23/2020 06:00:28 Xp: INFO: *** passed**
+08/23/2020 06:00:38 Xp: INFO: *** passed**
+08/23/2020 06:00:47 Xp: INFO: *** passed**
+08/23/2020 06:00:55 Xp: INFO: *** passed**
+08/23/2020 06:00:55 Xp: INFO: Lodin DDT is passed
+08/23/2020 06:00:56 Xp: INFO: *******End of Login DDT********* 
+08/23/2020 06:00:56 Xp: INFO: ********Completed Test_02__ddt_Login*******
+08/23/2020 06:06:48 Xp: INFO: *******Test_01_Login**************
+08/23/2020 06:06:48 Xp: INFO: *******verifying home page**************
+08/23/2020 06:06:55 Xp: INFO: *******verifying home page passed**************
+08/23/2020 06:07:00 Xp: INFO: *******verifying login test**************
+08/23/2020 06:07:17 Xp: INFO: *******Login test is passes**************
+08/23/2020 07:35:37 Xp: INFO: *******Test_01_Login**************
+08/23/2020 07:35:37 Xp: INFO: *******verifying home page**************
+08/23/2020 07:35:45 Xp: INFO: *******verifying home page passed**************
+08/23/2020 07:35:49 Xp: INFO: *******verifying login test**************
+08/23/2020 07:36:03 Xp: INFO: *******Login test is passes**************
+08/23/2020 07:36:43 Xp: INFO: *********Test_02__ddt_Login********
+08/23/2020 07:36:43 Xp: INFO: *******verifying login ddt test**************
+08/23/2020 07:37:07 Xp: INFO: *** passed**
+08/23/2020 07:37:17 Xp: INFO: *** passed**
+08/23/2020 07:37:25 Xp: INFO: *** passed**
+08/23/2020 07:37:34 Xp: INFO: *** passed**
+08/23/2020 07:37:34 Xp: INFO: Login DDT is passed
+08/23/2020 07:37:37 Xp: INFO: *******End of Login DDT********* 
+08/23/2020 07:37:37 Xp: INFO: ********Completed Test_02__ddt_Login*******
+08/27/2020 05:57:51 Xp: INFO: *******Test_01_Login**************
+08/27/2020 05:57:51 Xp: INFO: *******verifying home page**************
+08/27/2020 05:57:55 Xp: INFO: *******verifying home page passed**************
+08/27/2020 05:58:00 Xp: INFO: *******verifying login test**************
+08/27/2020 05:58:22 Xp: INFO: *******Login test is passes**************
+08/27/2020 06:06:23 Xp: INFO: *******Test_01_Login**************
+08/27/2020 06:06:23 Xp: INFO: *******verifying home page**************
+08/27/2020 06:09:05 Xp: INFO: *******Test_03_Login**************
+08/27/2020 06:09:23 Xp: INFO: *******Login successfull**************
+08/27/2020 06:09:23 Xp: INFO: *******Starting add vustomer test**************
+08/27/2020 06:11:43 Xp: INFO: *******Test_03_Login**************
+08/27/2020 06:11:59 Xp: INFO: *******Login successfull**************
+08/27/2020 06:11:59 Xp: INFO: *******Starting add customer test**************
+08/27/2020 06:14:09 Xp: INFO: *******Test_03_Login**************
+08/27/2020 06:14:29 Xp: INFO: *******Login successfull**************
+08/27/2020 06:14:29 Xp: INFO: *******Starting add customer test**************
+08/27/2020 07:53:57 Xp: INFO: *******Test_03_Login**************
+08/27/2020 07:54:12 Xp: INFO: *******Login successfull**************
+08/27/2020 07:54:12 Xp: INFO: *******Starting add customer test**************
+08/27/2020 07:54:18 Xp: INFO: *******providing customer details**************
+08/27/2020 07:57:09 Xp: INFO: *******Test_03_Login**************
+08/27/2020 07:57:24 Xp: INFO: *******Login successfull**************
+08/27/2020 07:57:24 Xp: INFO: *******Starting add customer test**************
+08/27/2020 07:57:28 Xp: INFO: *******providing customer details**************
+08/27/2020 07:58:56 Xp: INFO: *******Test_03_Login**************
+08/27/2020 07:59:11 Xp: INFO: *******Login successfull**************
+08/27/2020 07:59:11 Xp: INFO: *******Starting add customer test**************
+08/27/2020 07:59:17 Xp: INFO: *******providing customer details**************
+08/27/2020 08:43:41 Xp: INFO: *******Test_03_Login**************
+08/27/2020 08:44:00 Xp: INFO: *******Login successfull**************
+08/27/2020 08:44:00 Xp: INFO: *******Starting add customer test**************
+08/27/2020 08:44:05 Xp: INFO: *******providing customer details**************
+08/27/2020 08:46:40 Xp: INFO: *******Test_03_Login**************
+08/27/2020 08:47:01 Xp: INFO: *******Login successfull**************
+08/27/2020 08:47:01 Xp: INFO: *******Starting add customer test**************
+08/27/2020 08:47:10 Xp: INFO: *******providing customer details**************
+08/27/2020 08:50:44 Xp: INFO: *******Test_03_Login**************
+08/27/2020 08:51:02 Xp: INFO: *******Login successfull**************
+08/27/2020 08:51:02 Xp: INFO: *******Starting add customer test**************
+08/27/2020 08:51:09 Xp: INFO: *******providing customer details**************
+08/27/2020 08:53:39 Xp: INFO: *******Test_03_Login**************
+08/27/2020 08:53:56 Xp: INFO: *******Login successfull**************
+08/27/2020 08:53:56 Xp: INFO: *******Starting add customer test**************
+08/27/2020 08:54:01 Xp: INFO: *******providing customer details**************
+08/27/2020 08:56:32 Xp: INFO: *******Test_03_Login**************
+08/27/2020 08:56:48 Xp: INFO: *******Login successfull**************
+08/27/2020 08:56:48 Xp: INFO: *******Starting add customer test**************
+08/27/2020 08:56:55 Xp: INFO: *******providing customer details**************
+08/27/2020 08:58:05 Xp: INFO: *******Test_03_Login**************
+08/27/2020 08:58:20 Xp: INFO: *******Login successfull**************
+08/27/2020 08:58:20 Xp: INFO: *******Starting add customer test**************
+08/27/2020 08:58:26 Xp: INFO: *******providing customer details**************
+08/27/2020 09:33:30 Xp: INFO: *******Test_03_Login**************
+08/27/2020 09:33:50 Xp: INFO: *******Login successfull**************
+08/27/2020 09:33:50 Xp: INFO: *******Starting add customer test**************
+08/27/2020 09:33:54 Xp: INFO: *******providing customer details**************
+08/27/2020 09:34:41 Xp: INFO: *******Test_03_Login**************
+08/27/2020 09:34:57 Xp: INFO: *******Login successfull**************
+08/27/2020 09:34:57 Xp: INFO: *******Starting add customer test**************
+08/27/2020 09:35:03 Xp: INFO: *******providing customer details**************
+08/27/2020 09:38:04 Xp: INFO: *******Test_03_Login**************
+08/27/2020 09:38:19 Xp: INFO: *******Login successfull**************
+08/27/2020 09:38:19 Xp: INFO: *******Starting add customer test**************
+08/27/2020 09:38:28 Xp: INFO: *******providing customer details**************
+08/27/2020 09:40:32 Xp: INFO: *******Test_03_Login**************
+08/27/2020 09:40:48 Xp: INFO: *******Login successfull**************
+08/27/2020 09:40:48 Xp: INFO: *******Starting add customer test**************
+08/27/2020 09:40:54 Xp: INFO: *******providing customer details**************
+08/27/2020 09:41:03 Xp: INFO: saving customer info
+08/27/2020 09:41:03 Xp: INFO: validating customer info
+08/27/2020 09:42:50 Xp: INFO: *******Test_03_Login**************
+08/27/2020 09:43:06 Xp: INFO: *******Login successfull**************
+08/27/2020 09:43:06 Xp: INFO: *******Starting add customer test**************
+08/27/2020 09:43:13 Xp: INFO: *******providing customer details**************
+08/27/2020 09:43:21 Xp: INFO: saving customer info
+08/27/2020 09:43:21 Xp: INFO: validating customer info
+08/27/2020 09:47:45 Xp: INFO: *******Test_03_Login**************
+08/27/2020 09:48:05 Xp: INFO: *******Login successfull**************
+08/27/2020 09:48:05 Xp: INFO: *******Starting add customer test**************
+08/27/2020 09:48:12 Xp: INFO: *******providing customer details**************
+08/27/2020 09:48:19 Xp: INFO: saving customer info
+08/27/2020 09:48:19 Xp: INFO: validating customer info
+08/27/2020 09:53:22 Xp: INFO: *******Test_03_Login**************
+08/27/2020 09:54:45 Xp: INFO: *******Test_01_Login**************
+08/27/2020 09:54:45 Xp: INFO: *******verifying home page**************
+08/27/2020 09:54:51 Xp: INFO: *******verifying home page passed**************
+08/27/2020 09:54:56 Xp: INFO: *******verifying login test**************
+08/27/2020 09:55:12 Xp: INFO: *******Login test is passes**************
+08/27/2020 10:08:19 Xp: INFO: *******Test_03_Login**************
+08/27/2020 10:08:37 Xp: INFO: *******Login successfull**************
+08/27/2020 10:08:37 Xp: INFO: *******Starting add customer test**************
+08/27/2020 10:08:44 Xp: INFO: *******providing customer details**************
+08/27/2020 10:08:53 Xp: INFO: saving customer info
+08/27/2020 10:08:53 Xp: INFO: validating customer info
+08/27/2020 10:08:55 Xp: INFO: ****Testing completed
+08/27/2020 10:11:44 Xp: INFO: *******Test_03_Login**************
+08/27/2020 10:12:04 Xp: INFO: *******Login successfull**************
+08/27/2020 10:12:04 Xp: INFO: *******Starting add customer test**************
+08/27/2020 10:12:13 Xp: INFO: *******providing customer details**************
+08/27/2020 10:12:21 Xp: INFO: saving customer info
+08/27/2020 10:12:21 Xp: INFO: validating customer info
+08/27/2020 10:12:25 Xp: INFO: ****Testing completed
+08/28/2020 01:30:36 Xp: INFO: *******Test_03_Login**************
+08/28/2020 01:30:57 Xp: INFO: *******Login successfull**************
+08/28/2020 01:30:57 Xp: INFO: *******Starting add customer test**************
+08/28/2020 01:31:11 Xp: INFO: *******providing customer details**************
+08/28/2020 01:33:36 Xp: INFO: *******Test_03_Login**************
+08/28/2020 01:33:57 Xp: INFO: *******Login successfull**************
+08/28/2020 01:33:57 Xp: INFO: *******Starting add customer test**************
+08/28/2020 01:34:18 Xp: INFO: *******providing customer details**************
+08/28/2020 01:35:22 Xp: INFO: *******Test_03_Login**************
+08/28/2020 01:35:44 Xp: INFO: *******Login successfull**************
+08/28/2020 01:35:44 Xp: INFO: *******Starting add customer test**************
+08/28/2020 01:35:59 Xp: INFO: *******providing customer details**************
+08/28/2020 01:36:08 Xp: INFO: saving customer info
+08/28/2020 01:36:08 Xp: INFO: validating customer info
+08/28/2020 01:36:14 Xp: INFO: ****Testing completed
+08/28/2020 01:38:02 Xp: INFO: *******Test_03_Login**************
+08/28/2020 01:38:23 Xp: INFO: *******Login successfull**************
+08/28/2020 01:38:23 Xp: INFO: *******Starting add customer test**************
+08/28/2020 01:38:38 Xp: INFO: *******providing customer details**************
+08/28/2020 01:40:18 Xp: INFO: *******Test_03_Login**************
+08/28/2020 01:40:46 Xp: INFO: *******Login successfull**************
+08/28/2020 01:40:46 Xp: INFO: *******Starting add customer test**************
+08/28/2020 01:41:01 Xp: INFO: *******providing customer details**************
+08/28/2020 01:41:11 Xp: INFO: saving customer info
+08/28/2020 01:41:11 Xp: INFO: validating customer info
+08/28/2020 01:43:34 Xp: INFO: *******Test_03_Login**************
+08/28/2020 01:43:59 Xp: INFO: *******Login successfull**************
+08/28/2020 01:43:59 Xp: INFO: *******Starting add customer test**************
+08/28/2020 01:44:18 Xp: INFO: *******providing customer details**************
+08/28/2020 01:44:27 Xp: INFO: saving customer info
+08/28/2020 01:44:27 Xp: INFO: validating customer info
+08/28/2020 01:44:35 Xp: INFO: ****Testing completed
+08/28/2020 01:51:23 Xp: INFO: *******Test_03_Login**************
+08/28/2020 01:51:47 Xp: INFO: *******Login successfull**************
+08/28/2020 01:51:47 Xp: INFO: *******Starting add customer test**************
+08/28/2020 01:51:58 Xp: INFO: *******providing customer details**************
+08/28/2020 01:53:14 Xp: INFO: *******Test_03_Login**************
+08/28/2020 01:53:32 Xp: INFO: *******Login successfull**************
+08/28/2020 01:53:32 Xp: INFO: *******Starting add customer test**************
+08/28/2020 01:53:39 Xp: INFO: *******providing customer details**************
+08/28/2020 01:53:51 Xp: INFO: saving customer info
+08/28/2020 01:53:51 Xp: INFO: validating customer info
+08/28/2020 01:53:53 Xp: INFO: ****Testing completed
+08/28/2020 01:56:03 Xp: INFO: *******Test_03_Login**************
+08/28/2020 01:56:23 Xp: INFO: *******Login successfull**************
+08/28/2020 01:56:23 Xp: INFO: *******Starting add customer test**************
+08/28/2020 01:56:27 Xp: INFO: *******providing customer details**************
+08/28/2020 02:01:43 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:02:02 Xp: INFO: *******Login successfull**************
+08/28/2020 02:02:02 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:02:11 Xp: INFO: *******providing customer details**************
+08/28/2020 02:05:48 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:06:09 Xp: INFO: *******Login successfull**************
+08/28/2020 02:06:09 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:06:17 Xp: INFO: *******providing customer details**************
+08/28/2020 02:15:15 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:15:36 Xp: INFO: *******Login successfull**************
+08/28/2020 02:15:36 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:15:47 Xp: INFO: *******providing customer details**************
+08/28/2020 02:17:15 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:17:40 Xp: INFO: *******Login successfull**************
+08/28/2020 02:17:40 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:17:51 Xp: INFO: *******providing customer details**************
+08/28/2020 02:21:10 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:21:26 Xp: INFO: *******Login successfull**************
+08/28/2020 02:21:26 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:21:31 Xp: INFO: *******providing customer details**************
+08/28/2020 02:25:01 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:25:20 Xp: INFO: *******Login successfull**************
+08/28/2020 02:25:20 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:25:24 Xp: INFO: *******providing customer details**************
+08/28/2020 02:28:52 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:29:11 Xp: INFO: *******Login successfull**************
+08/28/2020 02:29:11 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:29:21 Xp: INFO: *******providing customer details**************
+08/28/2020 02:30:39 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:31:02 Xp: INFO: *******Login successfull**************
+08/28/2020 02:31:02 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:31:11 Xp: INFO: *******providing customer details**************
+08/28/2020 02:32:24 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:32:40 Xp: INFO: *******Login successfull**************
+08/28/2020 02:32:40 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:32:51 Xp: INFO: *******providing customer details**************
+08/28/2020 02:33:02 Xp: INFO: saving customer info
+08/28/2020 02:33:02 Xp: INFO: validating customer info
+08/28/2020 02:33:04 Xp: INFO: ****Testing completed
+08/28/2020 02:33:50 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:34:08 Xp: INFO: *******Login successfull**************
+08/28/2020 02:34:08 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:34:26 Xp: INFO: *******providing customer details**************
+08/28/2020 02:36:10 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:36:28 Xp: INFO: *******Login successfull**************
+08/28/2020 02:36:28 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:36:34 Xp: INFO: *******providing customer details**************
+08/28/2020 02:39:03 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:39:19 Xp: INFO: *******Login successfull**************
+08/28/2020 02:39:19 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:39:25 Xp: INFO: *******providing customer details**************
+08/28/2020 02:40:48 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:41:03 Xp: INFO: *******Login successfull**************
+08/28/2020 02:41:03 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:41:09 Xp: INFO: *******providing customer details**************
+08/28/2020 02:43:54 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:44:14 Xp: INFO: *******Login successfull**************
+08/28/2020 02:44:14 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:44:25 Xp: INFO: *******providing customer details**************
+08/28/2020 02:45:23 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:45:45 Xp: INFO: *******Login successfull**************
+08/28/2020 02:45:45 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:45:56 Xp: INFO: *******providing customer details**************
+08/28/2020 02:46:10 Xp: INFO: saving customer info
+08/28/2020 02:46:10 Xp: INFO: validating customer info
+08/28/2020 02:46:14 Xp: INFO: ****Testing completed
+08/28/2020 02:48:54 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:49:16 Xp: INFO: *******Login successfull**************
+08/28/2020 02:49:16 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:49:27 Xp: INFO: *******providing customer details**************
+08/28/2020 02:49:38 Xp: INFO: saving customer info
+08/28/2020 02:49:38 Xp: INFO: validating customer info
+08/28/2020 02:49:40 Xp: INFO: ****Testing completed
+08/28/2020 02:53:17 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:53:38 Xp: INFO: *******Login successfull**************
+08/28/2020 02:53:38 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:53:52 Xp: INFO: *******providing customer details**************
+08/28/2020 02:54:00 Xp: INFO: saving customer info
+08/28/2020 02:54:00 Xp: INFO: validating customer info
+08/28/2020 02:54:04 Xp: INFO: **Add customer test failed
+08/28/2020 02:55:37 Xp: INFO: *******Test_03_Login**************
+08/28/2020 02:55:51 Xp: INFO: *******Login successfull**************
+08/28/2020 02:55:51 Xp: INFO: *******Starting add customer test**************
+08/28/2020 02:55:59 Xp: INFO: *******providing customer details**************
+08/28/2020 02:56:09 Xp: INFO: saving customer info
+08/28/2020 02:56:09 Xp: INFO: validating customer info
+08/28/2020 02:56:12 Xp: INFO: ****Testing completed
+08/28/2020 03:00:21 Xp: INFO: *******Test_03_Login**************
+08/28/2020 03:00:36 Xp: INFO: *******Login successfull**************
+08/28/2020 03:00:36 Xp: INFO: *******Starting add customer test**************
+08/28/2020 03:00:42 Xp: INFO: *******providing customer details**************
+08/28/2020 03:07:20 Xp: INFO: *******Test_03_Login**************
+08/28/2020 03:07:55 Xp: INFO: *******Login successfull**************
+08/28/2020 03:07:55 Xp: INFO: *******Starting add customer test**************
+08/28/2020 03:10:30 Xp: INFO: *******providing customer details**************
+08/28/2020 03:12:57 Xp: INFO: *******Test_03_Login**************
+08/28/2020 03:13:16 Xp: INFO: *******Login successfull**************
+08/28/2020 03:13:16 Xp: INFO: *******Starting add customer test**************
+08/28/2020 03:13:26 Xp: INFO: *******providing customer details**************
+08/28/2020 03:13:37 Xp: INFO: saving customer info
+08/28/2020 03:13:37 Xp: INFO: validating customer info
+08/28/2020 03:13:42 Xp: INFO: ****Testing completed
+08/28/2020 03:14:38 Xp: INFO: *******Test_03_Login**************
+08/28/2020 03:14:57 Xp: INFO: *******Login successfull**************
+08/28/2020 03:14:57 Xp: INFO: *******Starting add customer test**************
+08/28/2020 03:15:04 Xp: INFO: *******providing customer details**************
+08/28/2020 03:15:46 Xp: INFO: *******Test_03_Login**************
+08/28/2020 03:16:02 Xp: INFO: *******Login successfull**************
+08/28/2020 03:16:02 Xp: INFO: *******Starting add customer test**************
+08/28/2020 03:16:10 Xp: INFO: *******providing customer details**************
+08/28/2020 03:17:27 Xp: INFO: *******Test_03_Login**************
+08/28/2020 03:17:43 Xp: INFO: *******Login successfull**************
+08/28/2020 03:17:43 Xp: INFO: *******Starting add customer test**************
+08/28/2020 03:17:49 Xp: INFO: *******providing customer details**************
+08/28/2020 03:18:02 Xp: INFO: saving customer info
+08/28/2020 03:18:02 Xp: INFO: validating customer info
+08/28/2020 03:18:03 Xp: INFO: ****Testing completed
+08/28/2020 11:54:31 Xp: INFO: *******Test_03_Login**************
+08/28/2020 11:54:49 Xp: INFO: *******Login successfull**************
+08/28/2020 11:54:49 Xp: INFO: *******Starting add customer test**************
+08/28/2020 11:55:54 Xp: INFO: *******Test_03_Login**************
+08/28/2020 11:56:11 Xp: INFO: *******Login successfull**************
+08/28/2020 11:56:11 Xp: INFO: *******Starting add customer test**************
+08/28/2020 11:56:19 Xp: INFO: *******providing customer details**************
+08/28/2020 11:56:26 Xp: INFO: saving customer info
+08/28/2020 11:56:26 Xp: INFO: validating customer info
+08/28/2020 11:56:28 Xp: INFO: ****Testing completed
+08/28/2020 11:57:19 Xp: INFO: *******Test_03_Login**************
+08/28/2020 11:57:35 Xp: INFO: *******Login successfull**************
+08/28/2020 11:57:35 Xp: INFO: *******Starting add customer test**************
+08/28/2020 11:57:43 Xp: INFO: *******providing customer details**************
+08/28/2020 11:57:52 Xp: INFO: saving customer info
+08/28/2020 11:57:52 Xp: INFO: validating customer info
+08/28/2020 11:57:55 Xp: INFO: ****Testing completed
+08/28/2020 11:58:23 Xp: INFO: *******Test_03_Login**************
+08/28/2020 11:58:40 Xp: INFO: *******Login successfull**************
+08/28/2020 11:58:40 Xp: INFO: *******Starting add customer test**************
+08/28/2020 11:58:51 Xp: INFO: *******providing customer details**************
+08/28/2020 11:58:59 Xp: INFO: saving customer info
+08/28/2020 11:58:59 Xp: INFO: validating customer info
+08/28/2020 11:59:00 Xp: INFO: ****Testing completed
+08/28/2020 12:22:46 Xp: INFO: *******Test_03_Login**************
+08/28/2020 12:23:04 Xp: INFO: *******Login successfull**************
+08/28/2020 12:23:04 Xp: INFO: *******Starting add customer test**************
+08/28/2020 12:23:09 Xp: INFO: *******providing customer details**************
+08/28/2020 12:23:20 Xp: INFO: saving customer info
+08/28/2020 12:23:20 Xp: INFO: validating customer info
+08/28/2020 12:23:21 Xp: INFO: ****Testing completed
+08/29/2020 01:42:05 Xp: INFO: ***Test_searchcustomerbyemail004 starting*
+08/29/2020 01:42:28 Xp: INFO: *******Login successfull**************
+08/29/2020 01:42:28 Xp: INFO: *******Starting search customer**************
+08/29/2020 01:42:35 Xp: INFO: *******Searching  customer by email**************
+08/29/2020 01:45:08 Xp: INFO: ***Test_searchcustomerbyemail004 starting*
+08/29/2020 01:45:31 Xp: INFO: *******Login successfull**************
+08/29/2020 01:45:31 Xp: INFO: *******Starting search customer**************
+08/29/2020 01:45:38 Xp: INFO: *******Searching  customer by email**************
+08/29/2020 01:52:32 Xp: INFO: ***Test_searchcustomerbyemail004 starting*
+08/29/2020 01:52:54 Xp: INFO: *******Login successfull**************
+08/29/2020 01:52:54 Xp: INFO: *******Starting search customer**************
+08/29/2020 01:52:59 Xp: INFO: *******Searching  customer by email**************
+08/29/2020 02:01:00 Xp: INFO: ***Test_searchcustomerbyemail004 starting*
+08/29/2020 02:01:20 Xp: INFO: *******Login successfull**************
+08/29/2020 02:01:20 Xp: INFO: *******Starting search customer**************
+08/29/2020 02:01:28 Xp: INFO: *******Searching  customer by email**************
+08/29/2020 02:12:20 Xp: INFO: ***Test_searchcustomerbyemail004 starting*
+08/29/2020 02:12:39 Xp: INFO: *******Login successfull**************
+08/29/2020 02:12:39 Xp: INFO: *******Starting search customer**************
+08/29/2020 02:12:49 Xp: INFO: *******Searching  customer by email**************
+08/29/2020 02:16:02 Xp: INFO: ***Test_searchcustomerbyemail004 starting*
+08/29/2020 02:16:19 Xp: INFO: *******Login successfull**************
+08/29/2020 02:16:19 Xp: INFO: *******Starting search customer**************
+08/29/2020 02:16:27 Xp: INFO: *******Searching  customer by email**************
+08/29/2020 02:16:32 Xp: INFO: *** Test_searchcustomerbyemail004 finihed*****
+08/29/2020 02:21:05 Xp: INFO: ***Test_searchcustomerbyname005 starting*
+08/29/2020 02:21:27 Xp: INFO: *******Login successfull**************
+08/29/2020 02:21:27 Xp: INFO: *******Starting search customer**************
+08/29/2020 02:21:34 Xp: INFO: *******Searching  customer by email**************
+08/29/2020 02:23:14 Xp: INFO: ***Test_searchcustomerbyname005 starting*
+08/29/2020 02:23:35 Xp: INFO: *******Login successfull**************
+08/29/2020 02:23:35 Xp: INFO: *******Starting search customer**************
+08/29/2020 02:23:40 Xp: INFO: *******Searching  customer by name**************
+08/29/2020 02:25:16 Xp: INFO: ***Test_searchcustomerbyname005 starting*
+08/29/2020 02:25:32 Xp: INFO: *******Login successfull**************
+08/29/2020 02:25:32 Xp: INFO: *******Starting search customer**************
+08/29/2020 02:25:38 Xp: INFO: *******Searching  customer by name**************
+08/29/2020 02:27:07 Xp: INFO: ***Test_searchcustomerbyname005 starting*
+08/29/2020 02:27:23 Xp: INFO: *******Login successfull**************
+08/29/2020 02:27:23 Xp: INFO: *******Starting search customer**************
+08/29/2020 02:27:29 Xp: INFO: *******Searching  customer by name**************
+08/29/2020 02:27:34 Xp: INFO: *** Test_searchcustomerbyemail004 finihed*****
+08/29/2020 12:46:10 Xp: INFO: ***Test_searchcustomerbyname005 starting*
+08/29/2020 12:46:33 Xp: INFO: *******Login successfull**************
+08/29/2020 12:46:33 Xp: INFO: *******Starting search customer**************
+08/29/2020 12:46:44 Xp: INFO: *******Searching  customer by name**************
+08/29/2020 12:46:49 Xp: INFO: *** Test_searchcustomerbyemail004 finihed*****
+08/29/2020 01:17:54 Xp: INFO: ***Test_searchcustomerbyemail004 starting*
+08/29/2020 01:18:13 Xp: INFO: *******Login successfull**************
+08/29/2020 01:18:13 Xp: INFO: *******Starting search customer**************
+08/29/2020 01:18:18 Xp: INFO: *******Searching  customer by email**************
+08/29/2020 01:18:23 Xp: INFO: *** Test_searchcustomerbyemail004 finihed*****
+08/29/2020 05:07:19 Xp: INFO: *******Test_03_Login**************
+08/29/2020 05:07:39 Xp: INFO: *******Login successfull**************
+08/29/2020 05:07:39 Xp: INFO: *******Starting add customer test**************
+08/29/2020 05:07:49 Xp: INFO: *******providing customer details**************
+08/29/2020 05:07:58 Xp: INFO: saving customer info
+08/29/2020 05:07:58 Xp: INFO: validating customer info
+08/29/2020 05:08:02 Xp: INFO: ****Testing completed
+08/29/2020 05:08:07 Xp: INFO: *******verifying login test**************
+08/29/2020 05:08:28 Xp: INFO: *******Login test is passes**************
+08/29/2020 05:09:53 Xp: INFO: *******Test_01_Login**************
+08/29/2020 05:09:53 Xp: INFO: *******verifying home page**************
+08/29/2020 05:09:59 Xp: INFO: *******verifying home page passed**************
+08/29/2020 05:10:04 Xp: INFO: *********Test_02__ddt_Login********
+08/29/2020 05:10:04 Xp: INFO: *******verifying login ddt test**************
+08/29/2020 05:10:31 Xp: INFO: *** passed**
+08/29/2020 05:10:42 Xp: INFO: *** passed**
+08/29/2020 05:10:49 Xp: INFO: *** passed**
+08/29/2020 05:10:57 Xp: INFO: *** passed**
+08/29/2020 05:10:57 Xp: INFO: Login DDT is passed
+08/29/2020 05:10:57 Xp: INFO: *******End of Login DDT********* 
+08/29/2020 05:10:57 Xp: INFO: ********Completed Test_02__ddt_Login*******
+08/29/2020 05:11:03 Xp: INFO: ***Test_searchcustomerbyemail004 starting*
+08/29/2020 05:11:19 Xp: INFO: *******Login successfull**************
+08/29/2020 05:11:19 Xp: INFO: *******Starting search customer**************
+08/29/2020 05:11:24 Xp: INFO: *******Searching  customer by email**************
+08/29/2020 05:11:29 Xp: INFO: *** Test_searchcustomerbyemail004 finihed*****
+08/29/2020 05:11:34 Xp: INFO: ***Test_searchcustomerbyname005 starting*
+08/29/2020 05:11:53 Xp: INFO: *******Login successfull**************
+08/29/2020 05:11:53 Xp: INFO: *******Starting search customer**************
+08/29/2020 05:12:01 Xp: INFO: *******Searching  customer by name**************
+08/29/2020 05:12:07 Xp: INFO: *** Test_searchcustomerbyemail004 finihed*****
+08/29/2020 05:18:02 Xp: INFO: *********Test_02__ddt_Login********
+08/29/2020 05:18:02 Xp: INFO: *******verifying login ddt test**************
+08/29/2020 05:18:29 Xp: INFO: *** passed**
+08/29/2020 05:18:40 Xp: INFO: *** passed**
+08/29/2020 05:18:48 Xp: INFO: *** passed**
+08/29/2020 05:18:54 Xp: INFO: *** passed**
+08/29/2020 05:18:54 Xp: INFO: Login DDT is passed
+08/29/2020 05:18:55 Xp: INFO: *******End of Login DDT********* 
+08/29/2020 05:18:55 Xp: INFO: ********Completed Test_02__ddt_Login*******
+08/29/2020 10:50:02 Xp: INFO: *******Test_03_Login**************
+08/29/2020 10:50:26 Xp: INFO: *******Login successfull**************
+08/29/2020 10:50:26 Xp: INFO: *******Starting add customer test**************
+08/29/2020 10:50:38 Xp: INFO: *******providing customer details**************
+08/29/2020 10:50:50 Xp: INFO: saving customer info
+08/29/2020 10:50:50 Xp: INFO: validating customer info
+08/29/2020 10:50:51 Xp: INFO: ****Testing completed
+08/29/2020 10:50:57 Xp: INFO: *******verifying login test**************
+08/29/2020 10:51:19 Xp: INFO: *******Login test is passes**************
+08/29/2020 10:51:28 Xp: INFO: *********Test_02__ddt_Login********
+08/29/2020 10:51:28 Xp: INFO: *******verifying login ddt test**************
+08/29/2020 10:51:59 Xp: INFO: *** passed**
+08/29/2020 10:52:10 Xp: INFO: *** passed**
+08/29/2020 10:52:17 Xp: INFO: *** passed**
+08/29/2020 10:52:25 Xp: INFO: *** passed**
+08/29/2020 10:52:25 Xp: INFO: Login DDT is passed
+08/29/2020 10:52:25 Xp: INFO: *******End of Login DDT********* 
+08/29/2020 10:52:25 Xp: INFO: ********Completed Test_02__ddt_Login*******
+08/29/2020 11:31:06 Xp: INFO: *******Test_03_Login**************
+08/29/2020 11:31:26 Xp: INFO: *******Login successfull**************
+08/29/2020 11:31:26 Xp: INFO: *******Starting add customer test**************
+08/29/2020 11:31:37 Xp: INFO: *******providing customer details**************
+08/29/2020 11:31:45 Xp: INFO: saving customer info
+08/29/2020 11:31:45 Xp: INFO: validating customer info
+08/29/2020 11:31:46 Xp: INFO: ****Testing completed
+08/29/2020 11:31:51 Xp: INFO: *******verifying login test**************
+08/29/2020 11:32:06 Xp: INFO: *******Login test is passes**************
+08/29/2020 11:32:11 Xp: INFO: *********Test_02__ddt_Login********
+08/29/2020 11:32:11 Xp: INFO: *******verifying login ddt test**************
+08/29/2020 11:32:47 Xp: INFO: *** passed**
+08/29/2020 11:32:58 Xp: INFO: *** passed**
+08/29/2020 11:33:06 Xp: INFO: *** passed**
+08/29/2020 11:33:13 Xp: INFO: *** passed**
+08/29/2020 11:33:13 Xp: INFO: Login DDT is passed
+08/29/2020 11:33:14 Xp: INFO: *******End of Login DDT********* 
+08/29/2020 11:33:14 Xp: INFO: ********Completed Test_02__ddt_Login*******
